@@ -4,14 +4,14 @@ Programs written in Racket, a dialect of Lisp
 
 Areas Explored:
 
-Defining Structs & Programming with Structs
+HW1 - Defining Structs & Programming with Structs
 
-Itemizations and Simple List Processing
+HW2 - Itemizations and Simple List Processing
 
-Lists and Functions on Lists of Structs
+HW3 - Lists and Functions on Lists of Structs
 
-Binary Search Trees
+HW4 - Binary Search Trees
 
-Hierarchies & Higher-Order Functions
+HW5 - Hierarchies & Higher-Order Functions
 
-Mutable Variables & Accumulator-Style Recursion
+HW6 - Mutable Variables & Accumulator-Style Recursion
